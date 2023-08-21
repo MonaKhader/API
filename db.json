@@ -135,7 +135,10 @@
     { "city": "ALwosta" },
     { "city": "Rafah" },
     { "city": "North" }
-    ]
+    ],
+    
+  "favorites": [
+  ]
 
   }
   
