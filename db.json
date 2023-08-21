@@ -129,13 +129,29 @@
       { "id": 1, "username": "Mona", "email": "monakhader155@gmail.com" ,"password": "1542000MMM", "mobile": "0567975422","image": "https://drive.google.com/file/d/1Gy2GFmFJmd0NpIskpXsf3gFSL3O8b6hd/view?usp=sharing"}
     ],
   
-   "locations ": [
-      { "G": "Gaza" ,
-      "K": "Khanyunis" ,
-      "Al": "ALwosta" ,
-      "R": "Rafah" ,
-      "N": "North" }
-    ],
+    "locations": [
+        {
+          "id": 1,
+          "name": "Gaza"
+        },
+        {
+          "id": 2,
+          "name": "Khanyunis"
+        },
+        {
+          "id": 3,
+          "name": "ALwosta"
+        },
+        {
+          "id": 4,
+          "name": "Rafah"
+        },
+        {
+          "id": 5,
+          "name": "North"
+        }
+        
+      ],
     
   "favorites": [
   ]
