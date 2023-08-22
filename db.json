@@ -7,7 +7,7 @@
        "bathrooms":2,
        "area":200,
        "price":200,
-       "city": "Rafah" ,
+       "city": "Rafah- alawda" ,
        "image":"https://images.pexels.com/photos/1396122/pexels-photo-1396122.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
        },
        { "id": 2,
@@ -17,7 +17,7 @@
        "bathrooms":2,
        "area":180,
        "price":350,
-       "city": "ALwosta" ,
+       "city": "ALwosta -Nosairat" ,
        "image":"https://images.pexels.com/photos/1212053/pexels-photo-1212053.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
        },
        { "id": 3,
@@ -27,7 +27,7 @@
        "bathrooms":2,
        "area":310,
        "price":100,
-       "city": "Gaza" ,
+       "city": "Gaza-alremal" ,
        "image":"https://images.pexels.com/photos/10224313/pexels-photo-10224313.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
        },
        { "id": 4,
@@ -37,7 +37,7 @@
        "bathrooms":2,
        "area":230,
        "price":200,
-       "city": "Khanyunis" ,
+       "city": "Khanyunis-jalal" ,
        "image":"https://images.pexels.com/photos/7061672/pexels-photo-7061672.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
        },
        { "id": 5,
@@ -47,7 +47,7 @@
        "bathrooms":2,
        "area":130,
        "price":350,
-       "city": "ALwosta" ,
+       "city": "ALwosta-Nosairat" ,
        "image":"https://images.pexels.com/photos/7061672/pexels-photo-7061672.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
        },
        { "id": 6,
@@ -57,27 +57,27 @@
        "bathrooms":4,
        "area":280,
        "price":100,
-        "city": "North",
+        "city": "North-Bait hanon",
        "image":"https://images.pexels.com/photos/7061676/pexels-photo-7061676.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
        },
        { "id": 7,
-       "title": "A Slice Of Caribbean Paradise" ,
+       "title": "A Slice Of Caribbean" ,
        "description":"The tropical beaches of Montego Bay cordially invite you to relax and indulge in pampering in all-encompassing style! The perfect place to unwind on perfectly white sandy beaches, each guest is guaranteed a harmonious and hassle-free vacation filled with gourmet cuisine, expertly poured cocktails, and enough memories to last many times over",
        "bedroom":4,
        "bathrooms":1,
        "area":350,
        "price":250,
-        "city": "Rafah",
+        "city": "Rafah-jnana",
        "image":"https://images.pexels.com/photos/5997993/pexels-photo-5997993.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
        },
        { "id": 8,
-       "title": "Bali'S Exotic Indonesian Escape" ,
+       "title": "Bali'S Exotic Indonesian" ,
        "description":"Nestled on the eastern hills of Bali, Jepun Bali Villas is the quintessential Indonesian getaway, with its stunning views of the Indian Ocean, luxury details, and activities galore. Let the soothing sounds of a nearby waterfall lull you to a place of relaxation during a Balinese massage in your private outdoor pavilion.",
        "bedroom":3,
        "bathrooms":1,
        "area":200,
        "price":350,
-       "city": "North",
+       "city": "North - baitlahia",
        "image":"https://images.pexels.com/photos/14509975/pexels-photo-14509975.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
        },
        { "id": 9,
@@ -87,7 +87,7 @@
        "bathrooms":1,
        "area":150,
        "price":100,
-       "city": "Rafah",
+       "city": "Rafah - tal alsoltan",
        "image":"https://images.pexels.com/photos/6267516/pexels-photo-6267516.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
        },
        { "id": 10,
@@ -97,7 +97,7 @@
        "bathrooms":2,
        "area":300,
        "price":150,
-       "city": "ALwosta" ,
+       "city": "ALwosta - Maghazy" ,
        "image":"https://images.pexels.com/photos/1060950/pexels-photo-1060950.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
        },
        { "id": 11,
@@ -107,7 +107,7 @@
        "bathrooms":2,
        "area":200,
        "price":350,
-       "city": "Khanyunis",
+       "city": "Khanyunis-banisohaila",
        "image":"https://images.pexels.com/photos/6267583/pexels-photo-6267583.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
        },
        { "id": 12,
@@ -117,7 +117,7 @@
        "bathrooms":3,
        "area":250,
        "price":400,
-       "city": "Gaza",
+       "city": "Gaza - Tal-Alhawa",
        "image":"https://images.pexels.com/photos/5178060/pexels-photo-5178060.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
        
        }
