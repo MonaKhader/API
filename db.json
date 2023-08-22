@@ -7,7 +7,7 @@
        "bathrooms":2,
        "area":200,
        "price":200,
-       "city": "Rafah- alawda" ,
+       "city": "Rafah  - alawda" ,
        "image":"https://images.pexels.com/photos/1396122/pexels-photo-1396122.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
        },
        { "id": 2,
@@ -17,7 +17,7 @@
        "bathrooms":2,
        "area":180,
        "price":350,
-       "city": "ALwosta -Nosairat" ,
+       "city": "ALwosta - Nosairat" ,
        "image":"https://images.pexels.com/photos/1212053/pexels-photo-1212053.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
        },
        { "id": 3,
@@ -27,7 +27,7 @@
        "bathrooms":2,
        "area":310,
        "price":100,
-       "city": "Gaza-alremal" ,
+       "city": "Gaza - alremal" ,
        "image":"https://images.pexels.com/photos/10224313/pexels-photo-10224313.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
        },
        { "id": 4,
@@ -37,7 +37,7 @@
        "bathrooms":2,
        "area":230,
        "price":200,
-       "city": "Khanyunis-jalal" ,
+       "city": "Khanyunis - jalal" ,
        "image":"https://images.pexels.com/photos/7061672/pexels-photo-7061672.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
        },
        { "id": 5,
@@ -47,7 +47,7 @@
        "bathrooms":2,
        "area":130,
        "price":350,
-       "city": "ALwosta-Nosairat" ,
+       "city": "ALwosta - Nosairat" ,
        "image":"https://images.pexels.com/photos/7061672/pexels-photo-7061672.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
        },
        { "id": 6,
@@ -57,7 +57,7 @@
        "bathrooms":4,
        "area":280,
        "price":100,
-        "city": "North-Bait hanon",
+        "city": "North - Bait hanon",
        "image":"https://images.pexels.com/photos/7061676/pexels-photo-7061676.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
        },
        { "id": 7,
@@ -67,7 +67,7 @@
        "bathrooms":1,
        "area":350,
        "price":250,
-        "city": "Rafah-jnana",
+        "city": "Rafah - jnana",
        "image":"https://images.pexels.com/photos/5997993/pexels-photo-5997993.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
        },
        { "id": 8,
@@ -107,7 +107,7 @@
        "bathrooms":2,
        "area":200,
        "price":350,
-       "city": "Khanyunis-banisohaila",
+       "city": "Khanyunis - banisohaila",
        "image":"https://images.pexels.com/photos/6267583/pexels-photo-6267583.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
        },
        { "id": 12,
